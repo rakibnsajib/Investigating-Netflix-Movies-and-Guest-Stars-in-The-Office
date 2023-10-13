@@ -26,8 +26,7 @@ This project involves data analysis and visualization to explore the following a
 
 The analysis in this project is based on the following data sources:
 
-- [Netflix Movie Dataset](https://example.com/netflix_dataset) - Provides information about Netflix movies.
-- [The Office Guest Stars Dataset](https://example.com/office_guest_stars_dataset) - Contains data on guest stars in "The Office."
+All the data are collected from various sources.
 
 ## Installation
 
@@ -53,6 +52,7 @@ cd Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
 Run the main analysis script:
 ```bash
 python analysis.py
+```
 
 
 Explore the generated reports and visualizations in the output directory.
