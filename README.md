@@ -13,8 +13,6 @@ This project is a data analysis project that investigates Netflix movies and the
 - [Data Sources](#data-sources)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 
@@ -37,19 +35,20 @@ To run this project locally, you will need Python and several libraries. You can
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
 Clone this repository:
 ```bash
 git clone https://github.com/rhsajibf/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office.git
+```
 
 
 Navigate to the project directory:
 ```bash
 cd Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office
-
+```
 
 Run the main analysis script:
 ```bash
