@@ -1,5 +1,6 @@
 # Investigating Netflix Movies and Guest Stars in The Office
-<p><img src="https://assets.datacamp.com/production/project_1237/img/netflix.jpg" alt="Someone's feet on table facing a television"></p>
+
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/rhsajibf/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
 ![GitHub license](https://img.shields.io/github/license/rhsajibf/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
 
